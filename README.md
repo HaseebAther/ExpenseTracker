@@ -20,7 +20,7 @@ The **Expense Tracker App** is a simple and intuitive Android application design
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ExpenseTracker.git
+   git clone https://github.com/haseebather/ExpenseTracker.git
 2. Open the project in Android Studio.
 
 3. Connect a real or virtual Android device.
