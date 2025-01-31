@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Dime</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="spend">Spend Smarter Save More</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="login">Login</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="or">OR</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="user_name">Enjelin Morgeana</string>
+    <string name="total_balance">Total Balance</string>
+    <string name="income">$0.00           </string>
+    <string name="incomep">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="_183_00">$0.00</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apple" />
+    <string name="add_expense">Add Expense</string>
+    <string name="name">NAME</string>
+    <string name="or_enter_custom_name">Or Enter Custom Name</string>
+    <string name="enter_custom_category">Enter custom category</string>
+    <string name="amount">Amount</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_time">Enter time</string>
+    <string name="upwork_icon">upwork_icon</string>
+    <string name="dd_mm_yyyy">dd/MM/yyyy</string>
+    <string name="recent_transactions">Recent Transactions</string>
+
+
+    <string-array name="category_options">
+        <item>Select</item>
+        <item>Expense</item>
+        <item>Income</item>
+    </string-array>
+
+
+</resources>
